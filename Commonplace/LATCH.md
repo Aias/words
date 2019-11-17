@@ -1,0 +1,11 @@
+---
+title: LATCH
+date: 2019-06-06 14:26:34 +0000
+updated: 2019-11-14 21:44:31 +0000
+source: http://arcadenw.org/article/wurmans-latch
+tags:
+  - information #information
+  - information architecture #information architecture
+  - organization #organization
+---
+LATCH: Location, Alphabet, Time, Category and Hierarchy
