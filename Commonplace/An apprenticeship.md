@@ -11,4 +11,4 @@ tags:
   - life #life
 ---
 > “Your twenties are always an apprenticeship, but you don’t always know what for.”
-— Jan Houtema
+> — Jan Houtema

@@ -5,7 +5,7 @@ updated: 2019-11-14 21:44:31 +0000
 source: http://arcadenw.org/article/wurmans-latch
 tags:
   - information #information
-  - information architecture #information architecture
+  - ia #ia
   - organization #organization
 ---
 __LATCH:__

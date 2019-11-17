@@ -10,6 +10,7 @@ tags:
   - evolution #evolution
   - planning #planning
 ---
-"[A noble, logical diagram][1], once recorded, will never die; long after we are gone it will be a living thing, asserting itself with ever-growing insistency.”
-— Daniel H. Burnham, London, 1910
+> “[A noble, logical diagram][1], once recorded, will never die; long after we are gone it will be a living thing, asserting itself with ever-growing insistency.”
+> — Daniel H. Burnham, London, 1910
+
 [1]: evernote:///view/184321186/s446/28d13993-6375-4d40-b276-75d71840a39f/28d13993-6375-4d40-b276-75d71840a39f/
