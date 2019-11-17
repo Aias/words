@@ -10,9 +10,7 @@ tags:
   - objects #objects
   - painting #painting
 ---
-“Technically, everything we draw and paint should have lost-and-found edges. The idea is that you can stress or emphasize some boundaries with a found or hard boundary while minimizing other areas with a lost or soft boundary. Soft or lost edges help you to connect and mass together adjacent objects and shapes, avoiding the cut-out-and-pasted-down look of a painting done entirely with hard, found edges.” 
-
-— Charles Reid, *Pulling Your Paintings Together*
-*[Planning Lost and Found Edges (Reid).pdf][1]*
+> “Technically, everything we draw and paint should have lost-and-found edges. The idea is that you can stress or emphasize some boundaries with a found or hard boundary while minimizing other areas with a lost or soft boundary. Soft or lost edges help you to connect and mass together adjacent objects and shapes, avoiding the cut-out-and-pasted-down look of a painting done entirely with hard, found edges.”
+> — Charles Reid, *Pulling Your Paintings Together, [Planning Lost and Found Edges (Reid).pdf][1]*
 
 [1]: Lost-and-found%20edges.html.resources/Planning%20Lost%20and%20Found%20Edges%20(Reid).pdf

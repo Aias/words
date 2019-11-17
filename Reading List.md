@@ -9,7 +9,7 @@
 *Maeda@Media*, John Maeda
 *The Laws of Simplicity*, John Maeda
 *Field Notes on Science & Nature*, Michael Canfield
-*The ABC’s of 🔺◻️🔵*, Ellen Lupton & J. Abbott Miller
+*The ABC’s of ⚠️🆘🔵*, Ellen Lupton & J. Abbott Miller
 *Notes on the Synthesis of Form*, Christopher Alexander
 *A City Is Not a Tree*, Christopher Alexander
 *Pedagogical Sketchbook*, Paul Klee
