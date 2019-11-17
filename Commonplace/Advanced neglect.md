@@ -17,5 +17,6 @@ tags:
 * * *
 
 See also: [https://ethanmarcotte.com/wrote/the-web-we-broke/][2]
+
 [1]: https://en.wikipedia.org/wiki/Clarke%27s_three_laws
 [2]: https://ethanmarcotte.com/wrote/the-web-we-broke/

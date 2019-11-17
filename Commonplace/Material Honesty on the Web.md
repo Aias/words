@@ -27,6 +27,7 @@ Enter the pen sketch.
 Pen sketches are—and will forever be—the fastest, cheapest, and most universal way to create and share your ideas for any medium, particularly in early ideation phases. The pixel precision of wireframes can lead clients—and designers—into thinking there’s no design work left to explore once the first round of wireframes is complete. Or, precise wireframes can lead them to fuss with fonts, styling, and alignment of elements on a grid. These are the wrong things to focus upon in early design phases.
 
 Because pen sketches are so far removed from web materials, they’re never confused for the final design. Even if you wanted to, it’s hard to fuss about fonts in a pen sketch. This keeps everyone focused on the right things at the right time. After the concepts are resolved through pen sketching, designers can [work honestly with clients][7] and [design in the browser][8] to bring the visual ideas and prototypes to life.
+
 [1]: http://www.slideshare.net/billwscott/designing-interesting-moments
 [2]: http://bokardo.com/archives/writing-microcopy/
 [3]: http://www.alistapart.com/articles/personality-in-design/

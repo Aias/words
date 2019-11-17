@@ -37,4 +37,5 @@ It’s similar to another emergent phenomenon: a murmuration of starlings. Each 
 The birds don’t communicate directly with each other, but they still form a cohesive and ever-evolving flock. Seen from afar, it’s almost as if they are a single organism.
 
 If Hotelling is right, even if they try to differentiate themselves, all websites will eventually flock together.
+
 [1]: http://www.math.toronto.edu/mccann/assignments/477/Hotelling29.pdf
