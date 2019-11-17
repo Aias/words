@@ -8,5 +8,5 @@ longitude: -89.56598815451301
 tags:
   - experience #experience
 ---
-"An expert is a man who has made all the mistakes which can be made in a very narrow field.”
-— Niels Bohr
+> “An expert is a man who has made all the mistakes which can be made in a very narrow field.”
+> — Niels Bohr

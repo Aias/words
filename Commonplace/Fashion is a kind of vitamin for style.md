@@ -8,4 +8,5 @@ longitude: -89.37176051447194
 tags:
   - style #style
 ---
-— Yves St. Laurent
+> “Fashion is a kind of vitamin for style.”
+> — Yves St. Laurent

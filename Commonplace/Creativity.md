@@ -8,5 +8,5 @@ longitude: -89.56592679693253
 tags:
   - creativity #creativity
 ---
-“Creativity is just connecting things.”
-— Steve Jobs
+> “Creativity is just connecting things.”
+> — Steve Jobs

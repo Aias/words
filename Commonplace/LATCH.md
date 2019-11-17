@@ -8,4 +8,9 @@ tags:
   - information architecture #information architecture
   - organization #organization
 ---
-LATCH: Location, Alphabet, Time, Category and Hierarchy
+__LATCH:__
+Location,
+Alphabet,
+Time,
+Category
+Hierarchy

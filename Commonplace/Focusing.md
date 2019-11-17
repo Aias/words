@@ -10,5 +10,5 @@ tags:
   - focus #focus
   - productivity #productivity
 ---
-“Focusing is about saying no.”
-— Steve Jobs
+> “Focusing is about saying no.”
+> — Steve Jobs
