@@ -23,8 +23,8 @@ And having never been to any of Alexander’s buildings, I’d simply turn the q
 
 My attitude toward Alexander’s teachings prior to experiencing the places and spaces realized in his practice was akin to what Alan Watts said about certain teachings in The Bible:
 
-*Sometimes, as St. Paul pointed out, commandments are not given in the expectation that they will be obeyed, but in the expectation that they will reveal something to those who hear them.*
->   
+> Sometimes, as St. Paul pointed out, commandments are not given in the expectation that they will be obeyed, but in the expectation that they will reveal something to those who hear them.
+
 Today, my answer is unequivocal. My interpretive lens: literal. Time and again, across cultures and continents and islands and oceans, in five different places now I’ve examined the evidence, and am persuaded.
 
 *Nicht nur einmal: immer wieder.*

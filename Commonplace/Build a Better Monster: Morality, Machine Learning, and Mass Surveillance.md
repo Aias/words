@@ -14,7 +14,7 @@ This kind of eidetic memory is nothing like real life. Most of what we do and sa
 
 The online world forces individuals to make daily irrevocable decisions about their online footprint.
 
-/
+* * *
 
 In the past, we assumed that when machines reached near-human performance in tasks like image recognition, it would be thanks to fundamental breakthroughs into the nature of cognition. We would be able to lift the lid on the human mind and see all the little gears turning.
 

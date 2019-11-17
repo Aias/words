@@ -17,11 +17,11 @@ So, here's a Vision Of The Future that's popular right now. It's a lot of this s
 
 This vision, from an interaction perspective, is *not visionary*. It's a timid increment from the status quo, and the status quo, from an interaction perspective, is *terrible*.
 
-/
+* * *
 
 Before we think about how we should interact with our Tools Of The Future, let's consider what a tool is in the first place. I like this definition: A tool addresses __human needs__ by amplifying __human capabilities__. That is, a tool converts what we *can do* into what we *want to do*. A great tool is designed to fit both sides.
 
-/
+* * *
 
 Go ahead and pick up a book. Open it up to some page.
 
@@ -43,7 +43,7 @@ I call this technology __Pictures Under Glass__. Pictures Under Glass sacrifice 
 
 To me, claiming that Pictures Under Glass is the future of interaction is like claiming that black-and-white is the future of photography. It's *obviously* a transitional technology. And the sooner we transition, the better.
 
-/
+* * *
 
 The next time you make a sandwich, pay attention to your hands. Seriously! Notice the myriad little tricks your fingers have for manipulating the ingredients and the utensils and all the other objects involved in this enterprise. Then compare your experience to sliding around Pictures Under Glass.
 

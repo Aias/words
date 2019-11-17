@@ -8,14 +8,14 @@ tags:
   - development #development
   - software #software
 ---
-Why do we build the wall? / We build the wall to keep us free.
-
-* * *
 
 We often write code to distract ourselves from the fact we don’t know what we’re building.
 
 * * *
 
-[Why we write code][1]
+> Why do we build the wall?
+> We build the wall to keep us free.
+> 
+> — Anais Mitchell, [Why We Build the Wall][1]
 
-[1]: evernote:///view/184321186/s446/3b7a51ba-c8f2-4d88-9364-ad0935dfaaf9/3b7a51ba-c8f2-4d88-9364-ad0935dfaaf9/
+[1]: https://genius.com/Anais-mitchell-why-we-build-the-wall-lyrics
