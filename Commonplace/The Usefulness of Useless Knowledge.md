@@ -7,8 +7,12 @@ tags:
   - knowledge #knowledge
   - work #work
 ---
-Its mission is to be a temple of unrestricted scholarship, an intellectual playground, and a haven for unfettered fundamental research.
-/
-"In the long-term, new inventions and new solutions to the world’s problems can only come into existence if people have the option and freedom to try, to tinker, and to fail.”
-/
+Its mission is to be a temple of unrestricted scholarship, an intellectual playground, and a haven for unfettered fundamental research.
+
+/
+
+> ”In the long-term, new inventions and new solutions to the world’s problems can only come into existence if people have the option and freedom to try, to tinker, and to fail.”
+
+/
+
 At the root of every useful invention is the pursuit of (what was initially perceived as) useless knowledge.

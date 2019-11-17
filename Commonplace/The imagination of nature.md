@@ -9,5 +9,5 @@ tags:
   - imagination #imagination
   - nature #nature
 ---
-“The imagination of nature is far, far greater than the imagination of man.”
-— Richard Feynman
+> “The imagination of nature is far, far greater than the imagination of man.”
+> — Richard Feynman

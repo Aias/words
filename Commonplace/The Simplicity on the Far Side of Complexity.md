@@ -7,5 +7,5 @@ tags:
   - complexity #complexity
   - simplicity #simplicity
 ---
-“I wouldn’t give a fig for the simplicity on this side of complexity; I would give my life for the simplicity on the far side of complexity.”
-— Oliver Wendell Holmes
+> “I wouldn’t give a fig for the simplicity on this side of complexity; I would give my life for the simplicity on the far side of complexity.”
+> — Oliver Wendell Holmes

@@ -6,5 +6,5 @@ altitude: 261.0837707519531
 latitude: 43.07867464983723
 longitude: -89.37170486333203
 ---
-“The greatest value of a picture is when it *forces* us to notice what we never expected to see.”
-— John Turkey, Exploratory Data Analysis
+> “The greatest value of a picture is when it *forces* us to notice what we never expected to see.”
+> — John Turkey, Exploratory Data Analysis

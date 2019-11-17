@@ -8,5 +8,5 @@ longitude: -89.56598815451301
 tags:
   - words #words
 ---
-“Short words are best and the old words when short are the best of all.”
-— Winston Churchill
+> “Short words are best and the old words when short are the best of all.”
+> — Winston Churchill

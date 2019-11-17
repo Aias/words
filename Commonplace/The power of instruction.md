@@ -10,6 +10,6 @@ tags:
   - instructions #instructions
   - teaching #teaching
 ---
-"The power of instruction is seldom of much efficacy except in those happy dispositions where it is almost superfluous.”
-— Edward Gibbon, *[The History of the Decline and Fall of the Roman Empire][1]*
+> “The power of instruction is seldom of much efficacy except in those happy dispositions where it is almost superfluous.”
+> — Edward Gibbon, *[The History of the Decline and Fall of the Roman Empire][1]*
 [1]: https://en.wikipedia.org/wiki/The_History_of_the_Decline_and_Fall_of_the_Roman_Empire

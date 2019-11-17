@@ -10,5 +10,5 @@ tags:
   - explanation #explanation
   - seeing #seeing
 ---
-"And you who claim to demonstrate by words the shape of man from every aspect of his memorial attitudes, dismiss such an idea, because the more minutely you describe, the more you will confuse the mind of the reader and the more you will lead him away from a knowledge of the thing described. Therefore it is necessary both to illustrate and to describe.”
-— Leonardo da Vinci
+> “And you who claim to demonstrate by words the shape of man from every aspect of his memorial attitudes, dismiss such an idea, because the more minutely you describe, the more you will confuse the mind of the reader and the more you will lead him away from a knowledge of the thing described. Therefore it is necessary both to illustrate and to describe.”
+> — Leonardo da Vinci

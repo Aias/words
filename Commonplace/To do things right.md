@@ -12,5 +12,7 @@ tags:
   - method #method
   - perfection #perfection
 ---
-“To do things right,first you need love,then technique.”
-— Antoni Gaudí
+> “To do things right,
+> first you need love,
+> then technique.”
+> — Antoni Gaudí

@@ -8,11 +8,12 @@ tags:
   - teamwork #teamwork
   - work #work
 ---
-The Eternal Pursuit of Unhappiness outlines eight simple virtues of an organization where creativity is pervasive:1.  Courage
+The Eternal Pursuit of Unhappiness outlines eight simple virtues of an organization where creativity is pervasive:
+1.  Courage
 2.  Idealism
 3.  Curiosity
 4.  Playfulness
-5.  Candour
+5.  Candor
 6.  Intuition
 7.  Free-Spiritedness
 8.  Persistence

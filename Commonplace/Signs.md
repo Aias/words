@@ -8,6 +8,9 @@ longitude: -89.37179999999999
 tags:
   - icons #icons
 ---
-A sign is somethingBy knowing whichWe know something more
-Charles Sanders Peirce
+> A sign is something
+> By knowing which
+> We know something more
+> — Charles Sanders Peirce
+
 ![](Signs.html.resources/img_0122.jpg)
