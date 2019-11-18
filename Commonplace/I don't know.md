@@ -1,7 +1,8 @@
 ---
-title: “I don’t know“ – Mike Monteiro
+title: I don’t know
 date: 2018-02-26 14:13:39 +0000
 updated: 2018-02-26 19:04:53 +0000
+author: Mike Monteiro
 source: https://medium.com/mule-design/i-dont-know-15a6aca3bee2
 tags:
   - confidence #confidence

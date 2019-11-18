@@ -1,5 +1,6 @@
 ---
-title: “Rune Madsen - The User Experience of Design Systems”
+title: The User Experience of Design Systems
+author: Rune Madsen
 date: 2018-09-17 01:55:11 +0000
 updated: 2018-09-17 15:56:17 +0000
 source: https://runemadsen.com/talks/uxcampcph/

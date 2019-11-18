@@ -1,5 +1,5 @@
 ---
-title: “Build a Better Monster: Morality, Machine Learning, and Mass Surveillance”
+title: Build a Better Monster – Morality, Machine Learning, and Mass Surveillance
 date: 2018-04-02 20:56:39 +0000
 updated: 2018-09-17 16:25:55 +0000
 source: http://idlewords.com/talks/build_a_better_monster.htm

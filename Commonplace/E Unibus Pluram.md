@@ -1,5 +1,5 @@
 ---
-title: “E Unibus Pluram: Television and U.S. Fiction”
+title: E Unibus Pluram – Television and U.S. Fiction
 date: 2019-05-05 15:29:06 +0000
 updated: 2019-05-05 15:36:45 +0000
 altitude: 274.1820983886719
