@@ -5,7 +5,7 @@ updated: 2018-09-17 16:06:43 +0000
 source: https://en.wikipedia.org/wiki/Tag_system
 tags:
   - computation #computation
-  - computer science #computer science
+  - compsci #compsci
   - logic #logic
   - math #math
 ---
