@@ -1,7 +1,7 @@
 ---
 title: One right answer
-date: 2019-04-09 15:49:02 +0000
-updated: 2019-05-31 23:54:51 +0000
+date: 2019-04-09 15:49:02
+updated: 2019-05-31 23:54:51
 tags:
   - education #education
   - teaching #teaching

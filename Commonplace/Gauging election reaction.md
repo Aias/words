@@ -1,7 +1,7 @@
 ---
 title: Gauging election reaction
-date: 2018-04-07 22:58:17 +0000
-updated: 2018-09-17 16:27:03 +0000
+date: 2018-04-07 22:58:17
+updated: 2018-09-17 16:27:03
 source: http://www.visualisingdata.com/2016/11/gauging-election-reaction/
 tags:
   - visualization #visualization

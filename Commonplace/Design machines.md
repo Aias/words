@@ -1,7 +1,7 @@
 ---
 title: Design machines
-date: 2018-03-13 02:24:46 +0000
-updated: 2019-05-31 16:36:02 +0000
+date: 2018-03-13 02:24:46
+updated: 2019-05-31 16:36:02
 source: https://louderthanten.com/coax/design-machines
 tags:
   - design #design

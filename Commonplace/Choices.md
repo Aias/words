@@ -1,7 +1,7 @@
 ---
 title: Choices
-date: 2018-10-01 19:05:42 +0000
-updated: 2018-10-02 03:17:21 +0000
+date: 2018-10-01 19:05:42
+updated: 2018-10-02 03:17:21
 source: https://www.joelonsoftware.com/2000/04/12/choices/
 ---
 

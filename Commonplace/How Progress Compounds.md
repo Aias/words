@@ -1,7 +1,7 @@
 ---
 title: How Progress Compounds
-date: 2019-05-13 14:06:17 +0000
-updated: 2019-05-13 14:23:18 +0000
+date: 2019-05-13 14:06:17
+updated: 2019-05-13 14:23:18
 source: https://fs.blog/2019/05/gatess-law/
 tags:
   - effort #effort

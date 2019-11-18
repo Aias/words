@@ -1,7 +1,7 @@
 ---
 title: Metacrap
-date: 2019-09-22 02:24:00 +0000
-updated: 2019-09-22 02:24:23 +0000
+date: 2019-09-22 02:24:00
+updated: 2019-09-22 02:24:23
 source: https://people.well.com/user/doctorow/metacrap.htm
 tags:
   - data #data

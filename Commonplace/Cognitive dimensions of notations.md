@@ -1,7 +1,7 @@
 ---
 title: Cognitive dimensions of notations
-date: 2018-03-13 04:18:31 +0000
-updated: 2019-11-14 23:59:08 +0000
+date: 2018-03-13 04:18:31
+updated: 2019-11-14 23:59:08
 source: https://en.wikipedia.org/wiki/Cognitive_dimensions_of_notations
 tags:
   - cognition #cognition

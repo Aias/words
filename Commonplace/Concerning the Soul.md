@@ -1,7 +1,7 @@
 ---
 title: Concerning the Soul
-date: 2019-05-07 20:59:18 +0000
-updated: 2019-05-07 21:00:07 +0000
+date: 2019-05-07 20:59:18
+updated: 2019-05-07 21:00:07
 source: http://jsomers.net/hesse_belief.html
 author: Herman Hesse
 tags:

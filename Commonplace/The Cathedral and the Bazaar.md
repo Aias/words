@@ -1,7 +1,7 @@
 ---
 title: The Cathedral and the Bazaar
-date: 2019-05-05 16:37:41 +0000
-updated: 2019-05-17 21:07:16 +0000
+date: 2019-05-05 16:37:41
+updated: 2019-05-17 21:07:16
 altitude: 274.2589111328125
 latitude: 43.07171630859375
 longitude: -89.38663445487353

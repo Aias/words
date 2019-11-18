@@ -1,7 +1,7 @@
 ---
 title: Leadership
-date: 2018-04-15 03:03:15 +0000
-updated: 2018-09-17 16:28:38 +0000
+date: 2018-04-15 03:03:15
+updated: 2018-09-17 16:28:38
 source: https://www.slideshare.net/reed2001/culture-1798664/80-If_you_want_to_build
 altitude: 260.9917297363281
 latitude: 43.07872456601056

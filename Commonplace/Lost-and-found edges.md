@@ -1,7 +1,7 @@
 ---
 title: Lost-and-found edges
-date: 2019-06-06 23:53:45 +0000
-updated: 2019-06-06 23:54:52 +0000
+date: 2019-06-06 23:53:45
+updated: 2019-06-06 23:54:52
 source: http://www.tkwa.com/blog/deep-interlock-and-ambiguity/
 tags:
   - ambiguity #ambiguity

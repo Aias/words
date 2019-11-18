@@ -1,7 +1,7 @@
 ---
 title: Where is the most indoors?
-date: 2019-06-22 01:16:01 +0000
-updated: 2019-06-22 01:16:24 +0000
+date: 2019-06-22 01:16:01
+updated: 2019-06-22 01:16:24
 source: http://ask.metafilter.com/233531/Where-is-the-most-indoors
 altitude: 33.91691589355469
 latitude: 37.5538330078125

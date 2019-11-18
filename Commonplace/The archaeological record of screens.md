@@ -1,7 +1,7 @@
 ---
 title: The archaeological record of screens
-date: 2018-10-01 19:03:46 +0000
-updated: 2018-10-02 03:17:49 +0000
+date: 2018-10-01 19:03:46
+updated: 2018-10-02 03:17:49
 source: https://www.joelonsoftware.com/2000/04/12/choices/
 tags:
   - history #history

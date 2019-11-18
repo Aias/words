@@ -1,7 +1,7 @@
 ---
 title: Minimum Viable Bureaucracy
-date: 2019-09-03 06:08:54 +0000
-updated: 2019-09-03 08:23:53 +0000
+date: 2019-09-03 06:08:54
+updated: 2019-09-03 08:23:53
 source: http://acko.net/blog/minimum-viable-bureaucracy/
 tags:
   - learning #learning

@@ -1,7 +1,7 @@
 ---
 title: Einmal Ist Keinmal
-date: 2019-04-08 20:50:22 +0000
-updated: 2019-04-16 23:27:34 +0000
+date: 2019-04-08 20:50:22
+updated: 2019-04-16 23:27:34
 source: https://medium.com/@danklyn/einmal-ist-keinmal-28afb7965ab3
 tags:
   - architecture #architecture

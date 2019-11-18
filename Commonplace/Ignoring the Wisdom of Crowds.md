@@ -1,7 +1,7 @@
 ---
 title: Ignoring the Wisdom of Crowds
-date: 2019-04-14 13:55:53 +0000
-updated: 2019-04-14 14:00:01 +0000
+date: 2019-04-14 13:55:53
+updated: 2019-04-14 14:00:01
 source: https://blog.asmartbear.com/ignoring-the-wisdom-of-crowds.html
 tags:
   - creativity #creativity

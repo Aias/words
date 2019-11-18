@@ -1,7 +1,7 @@
 ---
 title: What is Education?
-date: 2019-02-20 19:14:11 +0000
-updated: 2019-04-09 00:49:09 +0000
+date: 2019-02-20 19:14:11
+updated: 2019-04-09 00:49:09
 source: http://www.ac4d.com/2012/06/problems-with-online-learning/
 tags:
   - education #education

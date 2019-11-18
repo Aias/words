@@ -1,7 +1,7 @@
 ---
 title: Breaking rocks vs. building cathedrals
-date: 2019-08-26 06:44:13 +0000
-updated: 2019-11-14 23:58:21 +0000
+date: 2019-08-26 06:44:13
+updated: 2019-11-14 23:58:21
 source: https://maeda.pm/2019/08/25/breaking-rocks-versus-building-cathedrals/
 tags:
   - construction #construction

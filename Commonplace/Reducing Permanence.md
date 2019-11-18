@@ -1,7 +1,7 @@
 ---
 title: Reducing Permanence
-date: 2019-05-09 19:02:06 +0000
-updated: 2019-05-09 19:02:23 +0000
+date: 2019-05-09 19:02:06
+updated: 2019-05-09 19:02:23
 source: https://www.facebook.com/notes/mark-zuckerberg/a-privacy-focused-vision-for-social-networking/10156700570096634/
 tags:
   - communication #communication

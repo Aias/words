@@ -1,7 +1,7 @@
 ---
 title: How to do nothing
-date: 2018-06-28 22:02:01 +0000
-updated: 2018-09-17 16:02:54 +0000
+date: 2018-06-28 22:02:01
+updated: 2018-09-17 16:02:54
 source: https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb
 tags:
   - attention #attention

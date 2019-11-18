@@ -1,7 +1,7 @@
 ---
 title: Hitchens's razor
-date: 2018-09-27 17:30:04 +0000
-updated: 2018-10-02 03:17:24 +0000
+date: 2018-09-27 17:30:04
+updated: 2018-10-02 03:17:24
 source: https://en.wikipedia.org/wiki/Hitchens%27s_razor
 tags:
   - argument #argument

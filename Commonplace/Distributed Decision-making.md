@@ -1,7 +1,7 @@
 ---
 title: Distributed Decision-making
-date: 2019-07-28 12:07:51 +0000
-updated: 2019-07-28 12:08:36 +0000
+date: 2019-07-28 12:07:51
+updated: 2019-07-28 12:08:36
 source: https://matthewstrom.com/writing/distributed-decision-making/
 tags:
   - decisions #decisions

@@ -1,7 +1,7 @@
 ---
 title: The Eishin Project
-date: 2019-06-21 05:58:40 +0000
-updated: 2019-06-21 06:10:26 +0000
+date: 2019-06-21 05:58:40
+updated: 2019-06-21 06:10:26
 source: https://www.nakedcapitalism.com/2013/04/notes-and-excursions-on-christopher-alexanders-the-battle-for-the-life-and-beauty-of-the-earth.html
 tags:
   - architecture #architecture

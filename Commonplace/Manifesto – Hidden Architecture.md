@@ -1,7 +1,7 @@
 ---
 title: Manifesto – Hidden Architecture
-date: 2019-07-31 13:53:01 +0000
-updated: 2019-07-31 13:54:40 +0000
+date: 2019-07-31 13:53:01
+updated: 2019-07-31 13:54:40
 source: http://hiddenarchitecture.net/journal/manifesto/
 tags:
   - architecture #architecture

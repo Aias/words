@@ -1,7 +1,7 @@
 ---
 title: Consume less, create more
-date: 2019-08-24 22:58:10 +0000
-updated: 2019-08-24 22:58:52 +0000
+date: 2019-08-24 22:58:10
+updated: 2019-08-24 22:58:52
 source: https://tjcx.me/posts/consumption-distraction/
 tags:
   - creation #creation

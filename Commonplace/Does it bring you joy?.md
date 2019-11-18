@@ -1,7 +1,7 @@
 ---
 title: Does it bring you joy?
-date: 2019-02-18 14:42:27 +0000
-updated: 2019-02-18 14:43:16 +0000
+date: 2019-02-18 14:42:27
+updated: 2019-02-18 14:43:16
 source: https://maeda.pm/2019/02/08/does-it-bring-you-joy/
 tags:
   - happiness #happiness

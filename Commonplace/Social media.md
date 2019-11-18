@@ -1,7 +1,7 @@
 ---
 title: Social media
-date: 2019-07-28 12:01:32 +0000
-updated: 2019-07-28 12:08:53 +0000
+date: 2019-07-28 12:01:32
+updated: 2019-07-28 12:08:53
 source: https://jarango.com/2019/07/27/neal-stephenson-on-social-media/
 tags:
   - connection #connection

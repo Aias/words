@@ -1,7 +1,7 @@
 ---
 title: Finality constructs in design systems
-date: 2018-03-21 04:58:41 +0000
-updated: 2018-03-21 04:58:41 +0000
+date: 2018-03-21 04:58:41
+updated: 2018-03-21 04:58:41
 altitude: 228.6999969482422
 latitude: 43.0787
 longitude: -89.3717

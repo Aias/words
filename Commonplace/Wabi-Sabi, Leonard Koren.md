@@ -1,7 +1,7 @@
 ---
 title: Wabi-Sabi, Leonard Koren
-date: 2018-03-02 03:57:49 +0000
-updated: 2018-03-02 04:13:52 +0000
+date: 2018-03-02 03:57:49
+updated: 2018-03-02 04:13:52
 altitude: 261.7179565429688
 latitude: 43.07872978741871
 longitude: -89.3717386659786

@@ -1,7 +1,7 @@
 ---
 title: Stab a Book, the Book Won't Die
-date: 2019-11-09 21:56:31 +0000
-updated: 2019-11-09 22:08:49 +0000
+date: 2019-11-09 21:56:31
+updated: 2019-11-09 22:08:49
 source: https://craigmod.com/essays/media_accounting/
 tags:
   - addiction #addiction

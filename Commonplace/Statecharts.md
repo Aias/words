@@ -1,7 +1,7 @@
 ---
 title: Statecharts
-date: 2018-08-25 19:52:35 +0000
-updated: 2018-09-17 16:00:46 +0000
+date: 2018-08-25 19:52:35
+updated: 2018-09-17 16:00:46
 source: http://www.wisdom.weizmann.ac.il/~harel/papers/Statecharts.History.pdf
 altitude: 275.8360595703125
 latitude: 43.07164956398429

@@ -1,7 +1,7 @@
 ---
 title: A brief rant
-date: 2018-03-13 01:50:41 +0000
-updated: 2018-03-13 01:56:06 +0000
+date: 2018-03-13 01:50:41
+updated: 2018-03-13 01:56:06
 source: http://worrydream.com/#!/ABriefRantOnTheFutureOfInteractionDesign
 tags:
   - body #body

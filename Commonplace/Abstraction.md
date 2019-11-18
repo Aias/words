@@ -1,7 +1,7 @@
 ---
 title: Abstraction
-date: 2019-06-01 20:59:25 +0000
-updated: 2019-06-01 21:00:17 +0000
+date: 2019-06-01 20:59:25
+updated: 2019-06-01 21:00:17
 source: https://understandinggroup.com/information-architecture/ia-practice/what-before-how-it-applies-to-models-too/
 tags:
   - abstraction #abstraction

@@ -1,7 +1,7 @@
 ---
 title: The Eternal Pursuit of Unhappiness
-date: 2019-09-02 00:40:55 +0000
-updated: 2019-09-03 08:23:43 +0000
+date: 2019-09-02 00:40:55
+updated: 2019-09-03 08:23:43
 source: https://fs.blog/2019/09/the-eternal-pursuit-of-unhappiness/
 tags:
   - creativity #creativity

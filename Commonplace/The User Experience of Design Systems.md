@@ -1,8 +1,8 @@
 ---
 title: The User Experience of Design Systems
 author: Rune Madsen
-date: 2018-09-17 01:55:11 +0000
-updated: 2018-09-17 15:56:17 +0000
+date: 2018-09-17 01:55:11
+updated: 2018-09-17 15:56:17
 source: https://runemadsen.com/talks/uxcampcph/
 ---
 When you start a redesign process for a company, it’s very easy to briefly look at all their products (apps, websites, newsletters, etc) and first of all make fun of how bad it all looks, and then design this one single design system for everything. However, __once you start diving into why those decisions were made, they often reveal local knowledge that your design system doesn’t solve.__

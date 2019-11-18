@@ -1,7 +1,7 @@
 ---
 title: XY problem
-date: 2018-10-02 04:26:11 +0000
-updated: 2018-10-05 16:54:03 +0000
+date: 2018-10-02 04:26:11
+updated: 2018-10-05 16:54:03
 source: https://en.m.wikipedia.org/wiki/XY_problem
 tags:
   - communication #communication

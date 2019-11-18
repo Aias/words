@@ -1,7 +1,7 @@
 ---
 title: The Usefulness of Useless Knowledge
-date: 2019-03-02 10:20:31 +0000
-updated: 2019-04-09 00:52:12 +0000
+date: 2019-03-02 10:20:31
+updated: 2019-04-09 00:52:12
 source: https://inquisitivebiologist.wordpress.com/2019/03/01/book-review-the-usefulness-of-useless-knowledge/
 tags:
   - knowledge #knowledge

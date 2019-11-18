@@ -1,7 +1,7 @@
 ---
 title: Two Approaches to Structure
-date: 2019-03-01 15:01:23 +0000
-updated: 2019-04-24 17:18:45 +0000
+date: 2019-03-01 15:01:23
+updated: 2019-04-24 17:18:45
 source: https://jarango.com/2019/03/01/two-approaches-to-structure/
 tags:
   - ia #ia

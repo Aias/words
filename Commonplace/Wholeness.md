@@ -1,7 +1,7 @@
 ---
 title: Wholeness
-date: 2018-06-11 17:22:13 +0000
-updated: 2018-06-11 17:23:35 +0000
+date: 2018-06-11 17:22:13
+updated: 2018-06-11 17:23:35
 source: https://medium.com/@danklyn/what-good-means-25cc8cd93a56
 tags:
   - complexity #complexity

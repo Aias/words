@@ -1,7 +1,7 @@
 ---
 title: Garden of Eden
-date: 2019-06-22 01:41:40 +0000
-updated: 2019-06-22 01:44:38 +0000
+date: 2019-06-22 01:41:40
+updated: 2019-06-22 01:44:38
 source: https://en.wikipedia.org/wiki/Garden_of_Eden_(cellular_automaton)
 tags:
   - computation #computation

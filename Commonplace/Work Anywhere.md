@@ -1,7 +1,7 @@
 ---
 title: Work Anywhere
-date: 2019-04-22 03:54:22 +0000
-updated: 2019-04-22 03:55:21 +0000
+date: 2019-04-22 03:54:22
+updated: 2019-04-22 03:55:21
 source: https://jarango.com/2019/04/21/work-anywhere/
 tags:
   - life #life

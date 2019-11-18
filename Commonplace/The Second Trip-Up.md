@@ -1,7 +1,7 @@
 ---
 title: The Second Trip-Up
-date: 2019-05-05 13:40:12 +0000
-updated: 2019-05-05 13:40:42 +0000
+date: 2019-05-05 13:40:12
+updated: 2019-05-05 13:40:42
 source: https://frankchimero.com/blog/2014/the-second-tripup/
 tags:
   - thinking #thinking

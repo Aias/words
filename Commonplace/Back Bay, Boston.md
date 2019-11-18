@@ -1,7 +1,7 @@
 ---
 title: Back Bay, Boston
-date: 2019-11-11 19:33:25 +0000
-updated: 2019-11-12 04:23:11 +0000
+date: 2019-11-11 19:33:25
+updated: 2019-11-12 04:23:11
 source: https://en.wikipedia.org/wiki/Back_Bay,_Boston
 tags:
   - cities #cities

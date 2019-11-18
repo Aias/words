@@ -1,7 +1,7 @@
 ---
 title: LATCH
-date: 2019-06-06 14:26:34 +0000
-updated: 2019-11-14 21:44:31 +0000
+date: 2019-06-06 14:26:34
+updated: 2019-11-14 21:44:31
 source: http://arcadenw.org/article/wurmans-latch
 tags:
   - information #information

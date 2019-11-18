@@ -1,7 +1,7 @@
 ---
 title: What’s Not to Like
-date: 2018-10-17 23:01:08 +0000
-updated: 2019-04-24 17:18:19 +0000
+date: 2018-10-17 23:01:08
+updated: 2019-04-24 17:18:19
 source: https://medium.com/mule-design/whats-not-to-like-1a96cb39861f
 tags:
   - agreement #agreement

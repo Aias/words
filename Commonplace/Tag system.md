@@ -1,7 +1,7 @@
 ---
 title: Tag system
-date: 2018-04-12 15:27:33 +0000
-updated: 2018-09-17 16:06:43 +0000
+date: 2018-04-12 15:27:33
+updated: 2018-09-17 16:06:43
 source: https://en.wikipedia.org/wiki/Tag_system
 tags:
   - computation #computation

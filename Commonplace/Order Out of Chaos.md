@@ -1,7 +1,7 @@
 ---
 title: Order Out of Chaos – Patterns of Organization for Writing on the Job
-date: 2018-07-05 16:26:58 +0000
-updated: 2019-11-15 00:04:16 +0000
+date: 2018-07-05 16:26:58
+updated: 2019-11-15 00:04:16
 source: http://alistapart.com/article/order-out-of-chaos-patterns-of-organization-for-writing-on-the-job
 tags:
   - writing #writing

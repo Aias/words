@@ -1,7 +1,7 @@
 ---
 title: Charlie Munger USC Commencement Speech, 2007
-date: 2019-06-03 13:58:29 +0000
-updated: 2019-06-03 14:43:01 +0000
+date: 2019-06-03 13:58:29
+updated: 2019-06-03 14:43:01
 source: https://vintagevalueinvesting.com/10-ways-you-can-think-and-succeed-like-charlie-munger/
 altitude: 404.0026245117188
 latitude: 44.7623750177975

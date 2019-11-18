@@ -1,7 +1,7 @@
 ---
 title: Designing good software
-date: 2018-10-01 22:00:03 +0000
-updated: 2019-11-14 23:59:58 +0000
+date: 2018-10-01 22:00:03
+updated: 2019-11-14 23:59:58
 source: https://www.joelonsoftware.com/2000/05/09/the-process-of-designing-a-product/
 tags:
   - iteration #iteration
@@ -10,7 +10,8 @@ tags:
   - redesign #redesign
   - software #software
 ---
-__To summarize__, designing good software takes about six steps:1.  Invent some users
+__To summarize__, designing good software takes about six steps:
+1.  Invent some users
 2.  Figure out the important activities
 3.  Figure out the *user model* — how the user will expect to accomplish those activities
 4.  Sketch out the first draft of the design

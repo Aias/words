@@ -1,7 +1,7 @@
 ---
 title: All Websites Look The Same
-date: 2018-05-13 01:44:16 +0000
-updated: 2019-07-01 03:35:51 +0000
+date: 2018-05-13 01:44:16
+updated: 2019-07-01 03:35:51
 source: http://www.novolume.co.uk/blog/all-websites-look-the-same/
 tags:
   - ordinariness #ordinariness

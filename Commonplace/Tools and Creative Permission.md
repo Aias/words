@@ -1,7 +1,7 @@
 ---
 title: Tools and Creative Permission
-date: 2019-11-11 14:28:42 +0000
-updated: 2019-11-11 15:14:55 +0000
+date: 2019-11-11 14:28:42
+updated: 2019-11-11 15:14:55
 source: https://craigmod.com/essays/creative_tools/
 tags:
   - creativity #creativity

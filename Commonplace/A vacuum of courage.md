@@ -1,7 +1,7 @@
 ---
 title: A vacuum of courage
-date: 2019-07-28 12:16:25 +0000
-updated: 2019-07-28 12:16:40 +0000
+date: 2019-07-28 12:16:25
+updated: 2019-07-28 12:16:40
 source: https://www.robinrendle.com/notes/a-vacuum-of-courage.html
 tags:
   - authority #authority

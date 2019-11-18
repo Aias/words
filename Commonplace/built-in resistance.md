@@ -1,7 +1,7 @@
 ---
 title: built-in resistance
-date: 2019-07-22 20:25:39 +0000
-updated: 2019-08-24 23:01:36 +0000
+date: 2019-07-22 20:25:39
+updated: 2019-08-24 23:01:36
 source: https://frankchimero.com/blog/2019/built-in-resistance/
 tags:
   - resistance #resistance

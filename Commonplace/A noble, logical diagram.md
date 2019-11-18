@@ -1,7 +1,7 @@
 ---
 title: A noble, logical diagram
-date: 2019-07-08 10:52:35 +0000
-updated: 2019-07-08 10:54:26 +0000
+date: 2019-07-08 10:52:35
+updated: 2019-07-08 10:54:26
 altitude: 403.6716613769531
 latitude: 44.76247024061238
 longitude: -73.61554288697009

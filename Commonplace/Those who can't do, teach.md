@@ -1,7 +1,7 @@
 ---
 title: Those who can't do, teach
-date: 2018-04-07 23:17:35 +0000
-updated: 2018-04-07 23:20:42 +0000
+date: 2018-04-07 23:17:35
+updated: 2018-04-07 23:20:42
 source: http://worrydream.com/#!/SomeThoughtsOnTeaching
 altitude: 261.3931884765625
 latitude: 43.07858533219169

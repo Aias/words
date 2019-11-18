@@ -1,7 +1,7 @@
 ---
 title: Against metrics
-date: 2019-09-19 15:49:38 +0000
-updated: 2019-09-19 15:50:00 +0000
+date: 2019-09-19 15:49:38
+updated: 2019-09-19 15:50:00
 source: https://aeon.co/ideas/against-metrics-how-measuring-performance-by-numbers-backfires
 tags:
   - bureaucracy #bureaucracy

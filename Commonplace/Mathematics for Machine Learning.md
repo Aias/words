@@ -1,7 +1,7 @@
 ---
 title: Mathematics for Machine Learning
-date: 2018-10-13 18:23:55 +0000
-updated: 2019-04-24 17:18:03 +0000
+date: 2018-10-13 18:23:55
+updated: 2019-04-24 17:18:03
 source: https://mml-book.github.io/
 tags:
   - compsci #compsci

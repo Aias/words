@@ -1,7 +1,7 @@
 ---
 title: There's a pulse in each new fact
-date: 2019-07-11 20:59:55 +0000
-updated: 2019-07-11 21:01:29 +0000
+date: 2019-07-11 20:59:55
+updated: 2019-07-11 21:01:29
 altitude: 402.4846496582031
 latitude: 44.76254729132554
 longitude: -73.61555730743089

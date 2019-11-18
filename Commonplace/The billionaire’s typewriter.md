@@ -1,7 +1,7 @@
 ---
 title: The billionaire’s typewriter
-date: 2018-03-14 01:08:02 +0000
-updated: 2018-09-17 16:21:58 +0000
+date: 2018-03-14 01:08:02
+updated: 2018-09-17 16:21:58
 source: https://practicaltypography.com/billionaires-typewriter.html
 tags:
   - typography #typography

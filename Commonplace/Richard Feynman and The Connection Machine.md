@@ -1,7 +1,7 @@
 ---
 title: Richard Feynman and The Connection Machine
-date: 2018-11-02 19:32:04 +0000
-updated: 2018-11-02 19:47:02 +0000
+date: 2018-11-02 19:32:04
+updated: 2018-11-02 19:47:02
 source: http://blog.longnow.org/02017/02/08/richard-feynman-and-the-connection-machine/
 tags:
   - compsci #compsci

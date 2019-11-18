@@ -1,7 +1,7 @@
 ---
 title: The "Developer Experience" Bait-and-Switch
-date: 2018-09-27 17:14:48 +0000
-updated: 2018-10-02 03:17:33 +0000
+date: 2018-09-27 17:14:48
+updated: 2018-10-02 03:17:33
 source: https://infrequently.org/2018/09/the-developer-experience-bait-and-switch/
 tags:
   - development #development

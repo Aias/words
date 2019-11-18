@@ -1,7 +1,7 @@
 ---
 title: Declarative Design Tools
-date: 2018-09-06 18:10:27 +0000
-updated: 2018-09-17 15:58:52 +0000
+date: 2018-09-06 18:10:27
+updated: 2018-09-17 15:58:52
 source: https://jon.gold/2016/06/declarative-design-tools/
 tags:
   - creation #creation

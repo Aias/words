@@ -1,7 +1,7 @@
 ---
 title: Leave the Phone at Home
-date: 2019-09-12 19:22:14 +0000
-updated: 2019-09-13 07:58:52 +0000
+date: 2019-09-12 19:22:14
+updated: 2019-09-13 07:58:52
 source: https://frankchimero.com/blog/2019/leave-the-phone-at-home/
 tags:
   - communication #communication

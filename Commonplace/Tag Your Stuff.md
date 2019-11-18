@@ -1,7 +1,7 @@
 ---
 title: Tag Your Stuff
-date: 2018-09-24 16:38:37 +0000
-updated: 2019-11-14 15:19:22 +0000
+date: 2018-09-24 16:38:37
+updated: 2019-11-14 15:19:22
 source: https://jarango.com/2018/09/23/tag-your-stuff/
 tags:
   - ia #ia

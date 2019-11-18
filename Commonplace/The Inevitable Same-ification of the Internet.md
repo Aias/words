@@ -1,7 +1,7 @@
 ---
 title: The Inevitable Same-ification of the Internet
-date: 2019-05-31 16:39:40 +0000
-updated: 2019-05-31 16:52:12 +0000
+date: 2019-05-31 16:39:40
+updated: 2019-05-31 16:52:12
 source: https://matthewstrom.com/writing/sameification/
 tags:
   - economics #economics

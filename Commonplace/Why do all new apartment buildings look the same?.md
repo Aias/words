@@ -1,7 +1,7 @@
 ---
 title: Why do all new apartment buildings look the same?
-date: 2018-12-05 08:30:33 +0000
-updated: 2019-04-24 14:59:36 +0000
+date: 2018-12-05 08:30:33
+updated: 2019-04-24 14:59:36
 source: https://www.curbed.com/2018/12/4/18125536/real-estate-modern-apartment-architecture
 tags:
   - aesthetics #aesthetics

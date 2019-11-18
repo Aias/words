@@ -1,7 +1,7 @@
 ---
 title: Consider the Avocado
-date: 2018-06-21 15:06:55 +0000
-updated: 2018-06-21 15:10:02 +0000
+date: 2018-06-21 15:06:55
+updated: 2018-06-21 15:10:02
 source: https://jarango.com/2018/06/21/consider-the-avocado/
 tags:
   - ia #ia

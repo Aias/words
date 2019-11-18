@@ -1,7 +1,7 @@
 ---
 title: How to lose your accent
-date: 2019-10-20 15:51:04 +0000
-updated: 2019-10-20 15:52:18 +0000
+date: 2019-10-20 15:51:04
+updated: 2019-10-20 15:52:18
 source: http://www.trismegistos.com/TOEFL/index.html
 altitude: 402.2530212402344
 latitude: 44.76301615700219

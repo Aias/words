@@ -1,7 +1,7 @@
 ---
 title: Variance Charts
-date: 2018-08-25 20:40:26 +0000
-updated: 2018-08-25 20:40:26 +0000
+date: 2018-08-25 20:40:26
+updated: 2018-08-25 20:40:26
 source: http://variancecharts.com/
 tags:
   - data #data

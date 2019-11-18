@@ -1,7 +1,7 @@
 ---
 title: Contrasting Concepts of Harmony in Architecture
-date: 2019-07-31 13:45:05 +0000
-updated: 2019-07-31 14:24:47 +0000
+date: 2019-07-31 13:45:05
+updated: 2019-07-31 14:24:47
 source: http://www.katarxis3.com/Alexander_Eisenman_Debate.htm
 tags:
   - anxiety #anxiety

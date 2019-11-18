@@ -1,7 +1,7 @@
 ---
 title: Bring out your blogs
-date: 2019-06-21 22:28:19 +0000
-updated: 2019-06-21 22:28:47 +0000
+date: 2019-06-21 22:28:19
+updated: 2019-06-21 22:28:47
 source: https://disquiet.com/2019/06/16/word-blog-20th-anniversary-1999/
 altitude: 33.713623046875
 latitude: 37.55377197265625

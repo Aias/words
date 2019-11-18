@@ -1,7 +1,7 @@
 ---
 title: Web Design is 95% Typography
-date: 2019-02-27 19:08:30 +0000
-updated: 2019-11-15 00:05:18 +0000
+date: 2019-02-27 19:08:30
+updated: 2019-11-15 00:05:18
 source: https://ia.net/topics/the-web-is-all-about-typography-period
 tags:
   - code #code

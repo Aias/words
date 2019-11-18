@@ -1,7 +1,7 @@
 ---
 title: "Design Thinking"
-date: 2018-03-12 20:56:03 +0000
-updated: 2019-11-14 15:12:35 +0000
+date: 2018-03-12 20:56:03
+updated: 2019-11-14 15:12:35
 author: Jared Spool
 source: https://articles.uie.com/ssh-dont-tell-them-theres-no-magic-in-design-thinking/
 tags:

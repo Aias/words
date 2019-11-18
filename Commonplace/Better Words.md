@@ -1,7 +1,7 @@
 ---
 title: Better Words
-date: 2019-05-02 15:58:28 +0000
-updated: 2019-05-24 22:15:21 +0000
+date: 2019-05-02 15:58:28
+updated: 2019-05-24 22:15:21
 source: https://frankchimero.com/blog/2019/better-words/
 tags:
   - art #art

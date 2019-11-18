@@ -1,7 +1,7 @@
 ---
 title: E Unibus Pluram – Television and U.S. Fiction
-date: 2019-05-05 15:29:06 +0000
-updated: 2019-05-05 15:36:45 +0000
+date: 2019-05-05 15:29:06
+updated: 2019-05-05 15:36:45
 altitude: 274.1820983886719
 latitude: 43.07172361307325
 longitude: -89.38657689609737

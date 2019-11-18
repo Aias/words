@@ -1,7 +1,7 @@
 ---
 title: Culture At Netflix
-date: 2018-04-15 03:17:42 +0000
-updated: 2019-04-24 02:00:06 +0000
+date: 2018-04-15 03:17:42
+updated: 2019-04-24 02:00:06
 source: https://jobs.netflix.com/culture
 tags:
   - work #work

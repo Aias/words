@@ -1,7 +1,7 @@
 ---
 title: Accessibility
-date: 2019-06-17 16:41:06 +0000
-updated: 2019-06-17 16:41:28 +0000
+date: 2019-06-17 16:41:06
+updated: 2019-06-17 16:41:28
 source: https://www.brucelawson.co.uk/2019/why-would-a-screen-reader-user-have-a-braille-display/
 tags:
   - accessibility #accessibility

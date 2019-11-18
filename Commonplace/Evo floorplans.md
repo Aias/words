@@ -1,7 +1,7 @@
 ---
 title: Joel Simon
-date: 2018-07-31 00:23:00 +0000
-updated: 2018-07-31 00:23:00 +0000
+date: 2018-07-31 00:23:00
+updated: 2018-07-31 00:23:00
 source: http://www.joelsimon.net/evo_floorplans.html
 altitude: 262.7999877929688
 latitude: 43.0923

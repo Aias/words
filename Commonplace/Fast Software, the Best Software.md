@@ -1,7 +1,7 @@
 ---
 title: Fast Software, the Best Software
-date: 2019-11-11 16:26:20 +0000
-updated: 2019-11-15 00:00:36 +0000
+date: 2019-11-11 16:26:20
+updated: 2019-11-15 00:00:36
 source: https://craigmod.com/essays/fast_software/
 tags:
   - software #software

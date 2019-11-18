@@ -1,7 +1,7 @@
 ---
 title: Bookmarking
-date: 2018-06-28 21:49:26 +0000
-updated: 2018-09-17 16:02:34 +0000
+date: 2018-06-28 21:49:26
+updated: 2018-09-17 16:02:34
 source: https://robinrendle.com/essays/bookmarking/
 tags:
   - participation #participation

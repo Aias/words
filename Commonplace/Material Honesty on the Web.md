@@ -1,7 +1,7 @@
 ---
 title: Material Honesty on the Web
-date: 2019-11-16 13:09:06 +0000
-updated: 2019-11-16 13:14:34 +0000
+date: 2019-11-16 13:09:06
+updated: 2019-11-16 13:14:34
 source: https://alistapart.com/article/material-honesty-on-the-web/
 tags:
   - craft #craft

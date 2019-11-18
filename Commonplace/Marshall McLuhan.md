@@ -1,7 +1,7 @@
 ---
 title: Marshall McLuhan
-date: 2019-05-17 15:12:15 +0000
-updated: 2019-05-17 21:09:47 +0000
+date: 2019-05-17 15:12:15
+updated: 2019-05-17 21:09:47
 source: https://understandinggroup.com/tug-talks/webvisions/
 ---
 [https://en.wikipedia.org/wiki/Marshall\_McLuhan][1]

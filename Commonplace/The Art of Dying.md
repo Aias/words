@@ -1,7 +1,7 @@
 ---
 title: The Art of Dying
-date: 2019-02-13 03:25:51 +0000
-updated: 2019-02-14 19:20:15 +0000
+date: 2019-02-13 03:25:51
+updated: 2019-02-14 19:20:15
 tags:
   - death #death
   - emotion #emotion

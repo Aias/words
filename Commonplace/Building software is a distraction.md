@@ -1,7 +1,7 @@
 ---
 title: Building software is a distraction
-date: 2019-09-23 15:31:17 +0000
-updated: 2019-10-03 08:52:26 +0000
+date: 2019-09-23 15:31:17
+updated: 2019-10-03 08:52:26
 source: https://swizec.com/blog/building-software-is-a-distraction/swizec/9200
 tags:
   - code #code

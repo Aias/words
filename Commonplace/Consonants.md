@@ -1,7 +1,7 @@
 ---
 title: Consonants
-date: 2019-10-20 15:44:48 +0000
-updated: 2019-10-20 15:54:56 +0000
+date: 2019-10-20 15:44:48
+updated: 2019-10-20 15:54:56
 source: http://www.trismegistos.com/Dissertation/
 tags:
   - feeling #feeling
