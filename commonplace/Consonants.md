@@ -12,7 +12,7 @@ tags:
 ---
 Each of the consonants has a meaning that is based in how it's pronounced. It's a fundamental and much overlooked fact of language. More than anything, these letter meanings influence how we __feel__ about words, how we react to personal names and brand names, what subliminal effect the sounds in slang and jargon terms have on us. This reference allows you to see what the emotional, mythological and intellectual content of words is.
 
-* * *
+### 2
 
 From [http://www.rhw.com/thought-particles/5b-phonemic-associations/][1]
 

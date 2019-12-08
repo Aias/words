@@ -11,8 +11,6 @@ tags:
 ---
 Bill Gates, paraphrasing Roy Amara - "We overestimate the impact of technology in the short term and underestimate the effect in the long run."
 
-* * *
-
 > “Most people overestimate what they can achieve in a year and underestimate what they can achieve in ten years.”
 
 ### 2
@@ -26,6 +24,6 @@ This happens in our lives as well. If you learn a new skill, the number of skill
 
 *\-- As a commonplace book is maintained for longer and longer, the number of interconnections between the ideas recorded grows exponentially. Something interesting is bound to emerge.*
 
-### 2
+### 3
 
 Exponential growth cannot continue forever. Eventually we run into fundamental constraints. Hours in the day, people on the planet, availability of a resource, smallest possible size of a semiconductor, attention—there’s always a bottleneck we can’t eliminate.  We reach the point of diminishing returns. Growth slows or stops altogether. We must then either look at alternative routes to improvement, or leave things as they are. In Everett Rogers’s diffusion of innovation theory, this is known as the substitution stage, when usage declines and we start looking for substitutes.

@@ -1,5 +1,5 @@
 ---
-title: Those who can't do, teach
+title: Doing and Teaching
 date: 2018-04-07 23:17:35
 updated: 2018-04-07 23:20:42
 source: http://worrydream.com/#!/SomeThoughtsOnTeaching

@@ -9,13 +9,13 @@ tags:
 ---
 If the set of design requirements can be outlined as a graph, nodes & links, as in Notes on the Synthesis of Form, then what might the beta skeleton of that graph mean?
 
-* * *
+### 2
 
 In [computational geometry][1] and [geometric graph theory][2], a __*β*____\-skeleton__ or __beta skeleton__ is an [undirected graph][3] defined from a set of points in the [Euclidean plane][4]. Two points *p* and *q* are connected by an edge whenever all the angles *prq* are sharper than a threshold determined from the numerical parameter *β*.
 
 ![](Beta%20skeleton.html.resources/7AB38FCA-4FD0-46FD-8A74-8DACADE625B0.png)
 
-* * *
+### 3
 
 *See also:* [https://en.wikipedia.org/wiki/Voronoi\_diagram][5]
 
@@ -23,7 +23,7 @@ In [mathematics][6], a __Voronoi diagram__ is a [partitioning][7] of a [plane][8
 
 ![](Beta%20skeleton.html.resources/C53A1C33-3AB8-4780-8007-8215D463A12D.png)
 
-* * *
+### 4
 
 *See also:* [https://en.wikipedia.org/wiki/Straight\_skeleton][11]
 

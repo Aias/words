@@ -10,10 +10,8 @@ tags:
   - planning #planning
   - process #process
   - space #space
+commentary: This essay resonates closely with my design process for any large scale project in recent memory, for which I often find myself using Milanote as a kind of digital floor. The problem with Milanote is not the app itself, but the size of the screen that displays it — a better process would see these things arranged on a monitor of many feet tall and wider still. Open floor space for this kind of work is rare, especially in contemporary work environments...and even if you could get permission to section off an area of your office for your next project, people might look at you a little funny for it. But there is no substitute for the birds-eye view afforded by a seemingly boundless canvas. To design anything coherent, we need to see it at once.
 ---
-This essay resonates closely with my design process for any large scale project in recent memory, for which I often find myself using Milanote as a kind of digital floor. The problem with Milanote is not the app itself, but the size of the screen that displays it — a better process would see these things arranged on a monitor of many feet tall and wider still. Open floor space for this kind of work is rare, especially in contemporary work environments...and even if you could get permission to section off an area of your office for your next project, people might look at you a little funny for it. But there is no substitute for the birds-eye view afforded by a seemingly boundless canvas. To design anything coherent, we need to see it at once.
-
-* * *
 
 When making a book, I find it’s useful to walk on the book. To peek over it and look for patterns, shuffle pages, grouping and ungrouping the loose sheets. Walls work too — a book can be made on a wall. But floors are easier. And there’s something joyful about the tip-toe dance you do across a room when it is filled by a book.
 

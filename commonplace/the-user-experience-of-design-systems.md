@@ -8,15 +8,15 @@ source: https://runemadsen.com/talks/uxcampcph/
 When you start a redesign process for a company, it’s very easy to briefly look at all their products (apps, websites, newsletters, etc) and first of all make fun of how bad it all looks, and then design this one single design system for everything. However, __once you start diving into why those decisions were made, they often reveal local knowledge that your design system doesn’t solve.__
 — *A design system, style guide, pattern language, etc. can not be a rigid, inflexible set of rules. They need to be seen as guidelines, where it’s better to violate any recommendation than to create a poor user experience.*
 
-//
+### 2
 
 I have helped a few companies start the process of creating a design system, and there is this tendency to start with whatever components Material Design or Bootstrap use, and then just reskin them to fit your brand. This is what I mean by the ‘templatization’ of digital products. The problem is that if you equate a design system with an already defined set of components, you have already made pretty drastic decisions about your product: That it should be a user interface navigated with the mouse or the finger. You won’t start with your business goals and shape an entirely new product based on those goals.
 
-//
+### 3
 
 ![](Rune%20Madsen%20-%20The%20User%20Experience%20of%20Design%20Systems.html.resources/82BCC0EC-F796-45CB-9940-D19D947291F3.jpg)
 
-//
+### 4
 
 One of Stewart Brand’s main arguments is that buildings that work well embrace time as a key factor in the development of the system. As an example, he talks about what he calls “Low Road” buildings, which are these cheap, forgotten houses that over time were changed to reflect its users.
 

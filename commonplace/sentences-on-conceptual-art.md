@@ -1,17 +1,16 @@
 ---
 title: Sentences on Conceptual Art
+author: Sol Lewitt
 date: 2019-09-28 17:48:44
 updated: 2019-09-28 17:52:05
 source: http://radicalart.info/concept/LeWitt/sentences.html
+commentary: See also, Paragraphs on Conceptual Art – http://radicalart.info/concept/LeWitt/paragraphs.html
 tags:
   - art #art
   - ideas #ideas
   - process #process
   - rationality #rationality
 ---
-By Sol Lewitt. See also, Paragraphs on Conceptual Art: [http://radicalart.info/concept/LeWitt/paragraphs.html][1]
-
-* * *
 
 1\. Conceptual artists are mystics rather than rationalists. They leap to conclusions that logic cannot reach.
 2\. Rational judgements repeat rational judgements.
@@ -48,5 +47,3 @@ By Sol Lewitt. See also, Paragraphs on Conceptual Art: [http://radicalart.info/c
 33\. It is difficult to bungle a good idea.
 34\. When an artist learns his craft too well he makes slick art.
 35\. These sentences comment on art, but are not art.
-
-[1]: http://radicalart.info/concept/LeWitt/paragraphs.html

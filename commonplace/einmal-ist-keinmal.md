@@ -1,5 +1,6 @@
 ---
 title: Einmal Ist Keinmal
+author: Dan Klyn
 date: 2019-04-08 20:50:22
 updated: 2019-04-16 23:27:34
 source: https://medium.com/@danklyn/einmal-ist-keinmal-28afb7965ab3
@@ -9,9 +10,6 @@ tags:
   - goodness #goodness
   - wholeness #wholeness
 ---
-[Dan Klyn via Medium][1]
-
-* * *
 
 In digital design, products and services are frequently imagined and implemented placelessly: as if the consumer were jacked into The Matrix, and considering this product or that product from among an infinite set of choices at an infinitely-provisioned mercantile. The things we make are good, by this way of reasoning, if they fit the market’s demand.
 

@@ -12,7 +12,7 @@ I’ve never done sales, but I know a little bit about the “sales funnel.” Y
 
 I think that’s what creating is like. You need to write 500 words to get three good ones. Or 500 sketches, business ideas, or recipes. If you’re really really good, you can increase your overall conversion rate from 0.6% to 1%—but the most reliable way to get better results is to just produce more crap.
 
-* * *
+### 2
 
 Smartphones, I’ve decided, are not evil. This entire essay was composed on an iPhone. What’s evil is passive consumption, in all its forms.
 

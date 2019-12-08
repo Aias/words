@@ -11,4 +11,4 @@ Learning to design is, first of all, learning to see. Designers see more, and mo
 
 This is why excellent designers do not just develop a sharper eye. They try to keep their ability to see things as a customer would. You need a design eye to design, and a non-designer eye to *feel* what you designed.
 
-"See with one eye, feel with the other.” —Paul Klee
+> "See with one eye, feel with the other.” — Paul Klee

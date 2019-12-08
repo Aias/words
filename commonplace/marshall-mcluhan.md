@@ -10,11 +10,9 @@ Herbert Marshall McLuhan (July 21, 1911 – December 31, 1980) was a Canadian ph
 
 McLuhan coined the expression "the medium is the message" and the term global village, and predicted the World Wide Web almost 30 years before it was invented. He was a fixture in media discourse in the late 1960s, though his influence began to wane in the early 1970s. In the years after his death, he continued to be a controversial figure in academic circles. With the arrival of the Internet and the World Wide Web, interest was renewed in his work and perspective.
 
-* * *
+### Dan Klyn – Because McLuhan
 
-__Dan Klyn - Because McLuhan__
-
-"I don't necessarily agree with everything that I say."
+> "I don't necessarily agree with everything that I say."
 
 He called some of these teachings and statements "probes". As in, this little nugget of language is a probe that will go out into the world, and sometimes that probe will bring back interesting effects, but sometimes it won't.
 

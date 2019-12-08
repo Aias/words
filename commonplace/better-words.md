@@ -19,7 +19,7 @@ tags:
 
 Inspired by [You’re probably using the wrong dictionary « the jsomers.net blog][1]
 
-* * *
+### 2
 
 Everyone should use an older copy of Webster’s dictionary (but especially writers), because the definitions are, by my definition, artful, and that the dictionary’s artfulness leads to all kinds of unanticipated connections and appreciations for the supple veracity and evocativeness of language. Most contemporary dictionaries, in comparison, are rendered less artful because they value concision over loquaciousness. Somers gives a great example with the word *pathos*, whose definition he’s never quite certain. Another dictionary states that *pathos* is: “a quality that evokes pity or sadness.” Old Webster?
 
@@ -31,7 +31,7 @@ And it continues for a second definition:
  
 The writing gives a lived quality to the definition. It’s artful.
 
-* * *
+### 3
 
 These thoughts about language came to me at an opportune time. I have been meditating on and off (mostly on, much to my surprise) for the last two years. I’ll spare you the boring details of it (I sit and I sit), but needless to say, I have had a hard time describing the experience and outcomes of the practice. Maybe this is for everyone’s benefit—having someone prattle on about their meditation practice is about as tedious as someone recounting a dream. Still, the loss for words left me unsettled, because I love talking about my loves, and here I had no words.
 
@@ -48,8 +48,6 @@ A pity, because my needs are met by going back to Webster’s dictionary, but th
 > *Sensuous (a):* Of or pertaining to the senses, or sensible objects; addressing the senses; suggesting pictures or images of sense.
  
 Webster is with me (or I with him), but no one else. Despite all of his artful delineations for the words we have, we still lack some that can describe the most notable moments of our consciousness: when we are a loving witness to the world. Our box for those experiences stays unlabelled, identifiable and real, but as inexplicable as everything that it holds. The secret stays a secret.
-
-* * *
 
 ### postscript
 

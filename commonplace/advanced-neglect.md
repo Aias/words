@@ -14,7 +14,7 @@ tags:
 > “Any sufficiently advanced neglect is indistinguishable from malice.”
 > — Deb Chachra, appropriating [Clarke's Third Law][1]
 
-* * *
+### 2
 
 See also: [https://ethanmarcotte.com/wrote/the-web-we-broke/][2]
 

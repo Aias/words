@@ -1,5 +1,6 @@
 ---
-title: Rothko
+title: Painting and experience
+author: Mark Rothko
 date: 2018-03-18 19:16:40
 updated: 2018-03-18 19:16:40
 altitude: -18.20000076293945

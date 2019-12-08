@@ -11,12 +11,8 @@ tags:
   - similarity #similarity
   - urbanism #urbanism
   - webdesign #webdesign
+commentary: Relate to Alexander's pattern on distribution of similar businesses. There is a tendency for all entertainment offerings to cluster in one area, all food in another, all bars in another. Instead, we should aim for a rough homogenization of goods and services throughout an area, so that there's always a reason to be anywhere. This article talks about why, when left to their own devices, clustering of function inevitably happens, and is a great example of a situation where organic growth does not work in building better communities. When it comes to goods and services, we need a designer (or a planner) at the top who can look at the situation objectively and say “no, we don’t need six coffee shops on one street corner. You’ll need to open your business somewhere else.” Top-down planning of this sort also has the added benefit (or drawback, depending on your perspective) of giving priority to the first business of a certain type in the community, since they can choose freely where they want to open shop.
 ---
-*Relate to Alexander's pattern on distribution of similar businesses. There is a tendency for all entertainment offerings to cluster in one area, all food in another, all bars in another. Instead, we should aim for a rough homogenization of goods and services throughout an area, so that there's always a reason to be anywhere. This article talks about why, when left to their own devices, clustering of function inevitably happens, and is a great example of a situation where organic growth does not work in building better communities. When it comes to goods and services, we need a designer (or a planner) at the top who can look at the situation objectively and say “no, we don’t need six coffee shops on one street corner. You’ll need to open your business somewhere else.”*
-
-*Top-down planning of this sort also has the added benefit (or drawback, depending on your perspective) of giving priority to the first business of a certain type in the community, since they can choose freely where they want to open shop.*
-
-* * *
 
 In 1929, the economist Harold Hotelling published a paper in *The Economic Journal* titled “[Stability in Competition][1].” The paper describes a strange phenomenon: “an undue tendency for competitors to imitate each other in quality of goods, in location, and in other essential ways.”
 

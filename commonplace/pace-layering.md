@@ -8,9 +8,8 @@ longitude: -89.37172913772365
 tags:
   - style #style
   - time #time
+commentary: Also expanded in the concept of shearing layers from Brand’s book, *How Buildings Learn*.
 ---
-Also expanded in the concept of [shearing layers][1] from Brand’s book, *How Buildings Learn*.
-* * *
 
 Fast, shallow, changing, visible, explicit
 Slow, deep, constant, invisible, unconscious
@@ -23,5 +22,3 @@ Culture
 Nature
 
 ![](Pace%20layering.html.resources/8CB5F1A6-977A-4442-A5B5-8AED3CF2E52C.png)  
-
-[1]: evernote:///view/184321186/s446/8dc045f6-e502-4d2b-9f38-27f92098a039/8dc045f6-e502-4d2b-9f38-27f92098a039/

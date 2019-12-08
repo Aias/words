@@ -11,7 +11,7 @@ tags:
 
 We often write code to distract ourselves from the fact we don’t know what we’re building.
 
-* * *
+### 2
 
 > Why do we build the wall?
 > We build the wall to keep us free.

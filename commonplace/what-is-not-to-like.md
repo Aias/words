@@ -9,7 +9,7 @@ tags:
   - leadership #leadership
   - teamwork #teamwork
 ---
-__Consensus is not collaboration__
+*Consensus is not collaboration.*
 
 It’s easy to mistake one for the other. Consensus can feel a lot more comfortable until it doesn’t. A consensus-driven process optimizes for everyone agreeing. Eliminating conflict takes precedence. A truly collaborative process allows everyone to contribute towards achieving a stated shared goal. You can work side by side with someone for a decade and never truly collaborate. A lot of teams are more comfortable sacrificing the goal than probing the disagreement.
 

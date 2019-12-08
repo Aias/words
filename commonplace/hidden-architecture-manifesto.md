@@ -7,10 +7,8 @@ tags:
   - architecture #architecture
   - media #media
   - urbanism #urbanism
+commentary: The manifesto is written is a very Alexandrine, prose-poetry kind of way. Made more powerful by the back and forth between Spanish and English.
 ---
-The manifesto is written is a very Alexandrine, prose-poetry kind of way. Made more powerful by the back and forth between Spanish and English.
-
-* * *
 
 __We could claim undoubtedly that Media has determined over the last decades what is interesting in Architecture and what is not, tracing the main inclinations beyond technical, urban or social affairs.__
 Podríamos afirmar sin temor a equivocarnos que las publicaciones de arquitectura han determinado a lo largo de las últimas décadas qué interesa en arquitectura y qué no, marcando las principales tendencias por encima de aspectos de índole técnico, social o urbano.
