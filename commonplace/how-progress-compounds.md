@@ -15,7 +15,7 @@ Bill Gates, paraphrasing Roy Amara - "We overestimate the impact of technology i
 
 > “Most people overestimate what they can achieve in a year and underestimate what they can achieve in ten years.”
 
-/
+### 2
 
 Instead of continuing to tweak existing designs, Presto and his team devised a completely new incubator that used car parts. While the local people didn’t know how to fix an incubator, they were extremely adept at keeping their cars working no matter what. Named the NeoNurture, it used headlights for warmth, dashboard fans for ventilation, and a motorcycle battery for power. Hospital staff just needed to find someone who was good with cars to fix it—the principles were the same.
 
@@ -26,6 +26,6 @@ This happens in our lives as well. If you learn a new skill, the number of skill
 
 *\-- As a commonplace book is maintained for longer and longer, the number of interconnections between the ideas recorded grows exponentially. Something interesting is bound to emerge.*
 
-/
+### 2
 
 Exponential growth cannot continue forever. Eventually we run into fundamental constraints. Hours in the day, people on the planet, availability of a resource, smallest possible size of a semiconductor, attention—there’s always a bottleneck we can’t eliminate.  We reach the point of diminishing returns. Growth slows or stops altogether. We must then either look at alternative routes to improvement, or leave things as they are. In Everett Rogers’s diffusion of innovation theory, this is known as the substitution stage, when usage declines and we start looking for substitutes.

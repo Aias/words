@@ -12,7 +12,7 @@ If that’s the case, we can’t say that Medium et al. are of­fer­ing min­i�
 
 A nec­es­sary side ef­fect of Medium’s ho­mo­ge­neous de­sign is that every story looks the same. If you agree that the role of ty­pog­ra­phy is to en­hance the text for the ben­e­fit of the reader (as I contend in [who is ty­pog­ra­phy for?][1]), then it stands to rea­son that dif­fer­ent texts de­mand dis­tinct typog­ra­phy. As I say in [what is good ty­pog­ra­phy?][2], one size never fits all. Ty­pog­ra­phy wants to be heterogeneous.
 
-/
+### 2
 
 Al­though the type­writer did im­pose ho­mo­ge­neous (and ugly) ty­pog­ra­phy, it had ex­cel­lent ethics. The type­writer made it pos­si­ble to write more quickly, leg­i­bly, and ac­cu­rately than ever be­fore, with low cost and high porta­bil­ity. In short, it of­fered free­dom. For that, ho­mo­ge­neous de­sign was a small price to pay.
 

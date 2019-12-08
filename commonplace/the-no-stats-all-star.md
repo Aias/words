@@ -12,11 +12,11 @@ tags:
 ---
 Here we have a basketball mystery: \[Shane Battier\] is widely regarded inside the N.B.A. as, at best, a replaceable cog in a machine driven by superstars. And yet every team he has ever played on has acquired some magical ability to win.
 
-/
+### 2
 
 The virus that infected professional baseball in the 1990s, the use of statistics to find new and better ways to value players and strategies, has found its way into every major sport. Not just basketball and football, but also soccer and cricket and rugby and, for all I know, snooker and darts — each one now supports a subculture of smart people who view it not just as a game to be played but as a problem to be solved.
 
-/
+### 3
 
 Battier’s game is a weird combination of obvious weaknesses and nearly invisible strengths. When he is on the court, his teammates get better, often a lot better, and his opponents get worse — often a lot worse. “I call him Lego,” Morey says. “When he’s on the court, all the pieces start to fit together. And everything that leads to winning that you can get to through intellect instead of innate ability, Shane excels in. I’ll bet he’s in the hundredth percentile of every category.”
 

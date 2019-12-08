@@ -24,7 +24,7 @@ In 1929, the economist Harold Hotelling published a paper in *The Economic Journ
 
 Hotelling’s paper shows that the convergence of competition to nearly-identical products is not just a coincidence: it is inevitable. It seems irrational, but the math is sound. This is an *emergent* phenomenon: it’s not written into the rules. Businesses don’t need to coordinate with each other. Over time, as each business pursues its own success according to the same rules, clusters form.
 
-/
+### 2
 
 Convergence is not the sign of a broken system, or a symptom of a more insidious disease. It is an emergent phenomenon that arises from a few simple rules.
 

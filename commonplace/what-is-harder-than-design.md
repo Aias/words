@@ -16,6 +16,6 @@ I can’t tell you how many times I’ve been in a meeting with even one or two 
 
 What kills me is the teams who get into the bad habit of holding *meetings* every time they need to figure out how something is going to work. Did you ever try to write poetry in a committee meeting? It’s like a bunch of fat construction guys trying to write an opera while sitting on the couch watching *Baywatch*. The more fat construction guys you add to the couch, the less likely you are to get opera out of it.
 
-/
+### 2
 
-\[Scott Rosenberg’s excellent new book\] is a great look at one particular type of software project: the kind that ends up spinning and spinning its wheels without really going anywhere because the vision was too grand and the details were a little short.
+Scott Rosenberg’s excellent new book is a great look at one particular type of software project: the kind that ends up spinning and spinning its wheels without really going anywhere because the vision was too grand and the details were a little short.

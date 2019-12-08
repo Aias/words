@@ -14,9 +14,7 @@ Big companies do use crowd wisdom. You always hear about advertising campaigns b
 
 However, company messaging, product features, advertising layouts, and the other creative aspects of business require innovation, and we know that design-by-committee is the antithesis of innovation. [Average products designed for the average consumer][2] is the path to small business failure.
 
-/
-
-__The crowd vetoes innovation__
+### The crowd vetoes innovation
 
 We understand how crowds can be right, but this same process doesn’t work for creative endeavors.
 

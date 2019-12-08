@@ -18,7 +18,7 @@ This was not easy to do. It required much of both the interviewer and the person
 
 We shall see that many of these shyly presented, hesitating thoughts and feelings, were deeply true. They represented a real truth, which was demonstrated empirically once the school was built.
 
-/
+### 2
 
 From: [https://www.livingneighborhoods.org/ht-0/eishincampus.htm][1]
 

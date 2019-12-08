@@ -19,9 +19,7 @@ The master metric at YouTube is *the total time people spent viewing videos*, ad
 
 __Once metrics are defined,__ __they’re like parasites, or undead spirits. They take over human beings.__ I mean, nobody who works for YouTube *really* wants to increase the time people spend watching videos, but together that’s what all those people do.
 
-/
-
-__Knowing Behavior vs. Knowing Reasons__
+### Knowing Behavior vs. Knowing Reasons
 
 What do all these metrics have in common? They all focus on the behavior of users. I believe this is a problem. __By focusing on the behavior of users we’re missing something important about them, and we’re serving them poorly.__
 
@@ -29,18 +27,14 @@ What is it to understand someone as a person? Is it more about knowing their beh
 
 ![](Is%20Anything%20Worth%20Maximizing_.html.resources/0822AA47-B33E-42CF-A9C6-93149C5262B7.png)
 
-/
-
-__Choosing for Reasons vs. Choosing for Outcomes__
+### Choosing for Reasons vs. Choosing for Outcomes
 __Responsibility and Growth__
 
 For simple maximizers, its choices are just about numbers. That means its choices are *in* the numbers. Here, the choice between two desserts is just a choice between numbers. We could say its choice is *already made*. And that __it has no__ __*responsibility*____, since it’s just following what the numbers say__.
 
 Reason-based maximizers don’t just see numbers, though, they also see values. Here, there’s a choice between two desserts — but it isn’t a choice between two numbers. See, it’s also a choice between two *values*. One option means being a seize-the-day, *intensity* kind of person. The other means being a foody, aristocratic, *elegance* kind of person.
 
-/
-
-__Trust__
+### Trust
 
 Simple maximizers tend to betray one another. That’s what the prisoner’s dilemma is about.
 Deep trust requires a conversation, where we discover *shared reasons*. One agent has reasons, the other agent sees them. The second agent develops reasons that fit together with the first agent’s reasons , and the first agent sees how the reasons fit together, and that creates the trust.
@@ -54,7 +48,7 @@ __If most organizations are simple maximizers, that means that organizations don
 
 But \[small businesses\] have a limit to the number of people they can serve. Government bureaucracies, large businesses, and nonprofits have no hope of listening to everyone individually, and they need to use some kinds of metrics and analytics in order to be a team. Big organizations and even algorithms could become reason-based maximizers, if they adopt a certain special kind of metric.
 
-/
+### YouTube
 
 One thing that can happen, is I stop trusting YouTube. I see it doesn’t share my reasons. Maybe I give up on consumer technology, switch to a feature phone, or go to Camp Grounded.
 That’s the better possibility, I think.
@@ -69,9 +63,7 @@ This isn’t cooperation. Instead, I’ve become part of the machine. I’ve bec
 
 And maybe no one at YouTube even intended this! __When simple maximizing metrics guide product decisions and algorithms, manipulative features will be successful even if they’re accidental.__ The entire tech ecosystem can become glutted with features that are *inadvertently manipulative*.
 
-/
-
-__Flight to Higher Ground__
+### Flight to Higher Ground
 
 The old metric — which snake oil did well on — was *sales.* The new one: *medically justifiable sales*. This triggered a flight to higher ground. Consumers trusted the new drug assessments, from this nonprofit, because its metric was aligned with their real reasons. They stopped buying drugs from the snake oil guys. The entire market was restructured around the new metric, *medically justifiable sales*.
 

@@ -17,11 +17,11 @@ Most likely, you’re stuck in a [“tiny loop:”][1]
 
 *— a senseless series of actions that span minutes, hours, days, consume years, and add up to nothing or almost nothing, and that benefit (ideally: tranquility, growth, curiosity) no one but the company (in reality: engagement, ad views) who owns the container in which the loop takes place.*
 
-/
+### 2
 
 When the front page is the only entry point, only a single page of the publication requires hyperbole to convert passers-by to readers. Online, every article becomes a potential entry point. And so there is an incentive for pervasive hyperbole in order to “convert” eyeballs in service to ads and the consumption of more attention.
 
-/
+### 3
 
 “If you read a novel in more than two weeks you don’t read the novel really.” Meaning: To truly read (and, I might add, write) is to commit and maintain focus long enough to live fully within the world of the book (as opposed to ten second dips in and out, as we mostly do with much online media).
 

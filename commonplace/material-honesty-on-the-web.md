@@ -18,7 +18,7 @@ In his 1953 essay, *The Language of an Organic Architecture*, master architect F
 
 Again and again, design history shows that when we try to trick a viewer into believing a material is something it’s not, the value and the timelessness of the design decrease. Industrial designer Norman Bel Geddes—and others—wrote volumes on this topic in the early twentieth century. Geddes coined his use of materials as “[a sincere style…of the materials involved][5].”
 
-/
+### 2
 
 Rather than look for material honest processes in a long list of [new software design tools][6] (many of which will come and go quickly), we should invest in honest tools that will *forever* be part of the designer’s toolkit.
 

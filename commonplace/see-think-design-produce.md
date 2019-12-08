@@ -10,7 +10,7 @@ tags:
 ---
 If I practiced something long enough, then I could take those decisions that before I had been making in my head — “Are these glyphs too close together? Are these too far apart?” — I could take those decisions and essentially outsource them to my eyes, so that my eyes started learning these patterns and raising the problem pairs to my attention.  
 
-/
+### 2
 
 Paper sketches are not commitments.
 
@@ -22,7 +22,7 @@ Because sketches really force you to confront that problem of: “What are you t
 
 And if it’s just your pen and paper, you can’t hide behind a programming language or making things look cool. It kind of forces you to grapple with that question.
 
-/
+### 3
 
 An ugly sketch can be a wonderful thing.
 
@@ -32,7 +32,7 @@ It’s much easier to clean up an ugly sketch in the design process than it is t
 
 —*An ugly sketch is not necessarily an ugly idea.*
 
-/
+### 4
 
 I don’t know if there are *units* of understanding, but \[the a-ha moment is\] your one unit of understanding that all your prior work has come up with.
 
@@ -40,7 +40,7 @@ And you have to be very careful to remember that, and not say: “Oh, I’ll mak
 
 And once you have that, please, whatever it is that you do, keep it. And then try to communicate that understanding. Your goal becomes: “Okay, I have this little piece of understanding. How can I find a way to communicate that to others?” That runs behind most of the work that we do.
 
-/
+### 5
 
 Don’t be your own audience!
 
@@ -52,7 +52,7 @@ Whenever I work, I try to actively think: “What was it like two weeks ago, whe
 
 If I could go back and talk to that person two weeks ago, how would I lead them, with no dead ends, on a simple path to whatever I’ve come to understand?
 
-/
+### 6
 
 ![](See,%20Think,%20Design,%20Produce.html.resources/962C6386-8110-4943-88E0-524F1D206102.png)  
 
@@ -84,7 +84,7 @@ It was all over the World Cup: “4.9 million tweets in this match.” Or you mi
 
 But the problem is, what is that number telling you? It’s saying there’s a lot, but compared to what? You really need some context to make any sense of the number, or to have any sort of takeaway, anything you can understand from that.
 
-/
+### 7
 
 But the important thing to me is not the tool. Sometimes I’ll post a graphic and I’ll get an email from someone asking, “What tool do you use?”
 
@@ -94,7 +94,7 @@ But the important thing to me, no matter what tool I’m using, is to understand
 
 I don’t want any magic steps where I feed it to a tool, then something comes out the other side and I’m not quite sure what happened.
 
-/
+### 8
 
 And then maybe every once in a while, you can get a sense of beauty.
 
