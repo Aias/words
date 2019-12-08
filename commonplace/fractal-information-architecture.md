@@ -4,7 +4,7 @@ date: 2019-06-01 20:54:07
 updated: 2019-06-01 20:56:00
 source: https://understandinggroup.com/information-architecture/ia-practice/what-before-how-it-applies-to-models-too/
 tags:
-  - ia #ia
+  - information-architecture #information-architecture
   - math #math
   - scale #scale
 ---

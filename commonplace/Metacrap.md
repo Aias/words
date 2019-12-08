@@ -6,7 +6,7 @@ source: https://people.well.com/user/doctorow/metacrap.htm
 tags:
   - data #data
   - information #information
-  - ia #ia
+  - information-architecture #information-architecture
   - meaning #meaning
 ---
 Compare to Bret Victor's thoughts on the usefulness of APIs.
