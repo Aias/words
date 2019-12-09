@@ -10,7 +10,7 @@ tags:
   - making #making
   - material #material
   - ui #ui
-  - webdesign #webdesign
+  - web-design #web-design
 ---
 The palette of emotional design for flatlanders is instead temporal. Temporal beauty lives in state-change animations, nuanced timing effects, strategically placed user feedback, and other “[interesting moments][1],” not drop shadows and Photoshop layer effects. Flatlanders build all kinds of emotion and depth combining these moments with delightful [microcopy][2], [personality][3], and [typography][4]. All honest—all web—all good.
 

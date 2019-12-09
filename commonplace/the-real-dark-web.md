@@ -7,7 +7,7 @@ tags:
   - development #development
   - novelty #novelty
   - technology #technology
-  - webdesign #webdesign
+  - web-design #web-design
 ---
 I feel there's an analogy here between that unseen dark matter, and the huge crowd of web developers who are using such "boring" technology stacks.
 

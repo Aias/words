@@ -6,7 +6,7 @@ source: https://robinrendle.com/essays/bookmarking/
 tags:
   - participation #participation
   - typography #typography
-  - user experience #user experience
+  - user-experience #user-experience
 ---
 Before we can enjoy [this particular book][1] for ourselves, Grootens requires something of us. He asks only for a small contribution.
 

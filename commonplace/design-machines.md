@@ -11,7 +11,7 @@ tags:
   - similarity #similarity
   - systems #systems
   - tedium #tedium
-  - webdesign #webdesign
+  - web-design #web-design
 ---
 ![](Design%20machines.html.resources/collage.jpg)
 

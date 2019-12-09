@@ -7,7 +7,7 @@ tags:
   - ordinariness #ordinariness
   - style #style
   - tedium #tedium
-  - webdesign #webdesign
+  - web-design #web-design
 ---
 When was the last time you saw a website that didn’t have a huge image fitting to the screen with some giant text overlaid on it?
 

@@ -8,7 +8,7 @@ tags:
   - connection #connection
   - interaction #interaction
   - politics #politics
-  - social media #social media
+  - social-media #social-media
 ---
 
 Mr. Stephenson’s observation corresponds to my experience of social media (especially Twitter): It’s not that folks are talking past each other, it’s that they’re not even interacting with people who don’t share their mental models.

@@ -8,7 +8,7 @@ latitude: 37.55377197265625
 longitude: 126.9195102518352
 tags:
   - internet #internet
-  - webdesign #webdesign
+  - web-design #web-design
   - writing #writing
 ---
 I’m sure if we did wayback sleuthing we’d find lots of conference presentations in a range of professions and pursuits on how “blogging” isn’t a good use of time because of page views, or clicks, or SEO, or engagement, etc. Pay no attention to the man behind the podium. Just share what’s of importance to you. And don’t look at page views. Don’t seek claps. Don’t chase reposts. Don’t covet trackbacks. Seek the unique pleasure of having shared something you feel is worth sharing. And the conversations that sort of writing (that sort of blogging) encourages. And yes, it can take time. Good things generally do.
