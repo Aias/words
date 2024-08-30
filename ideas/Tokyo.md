@@ -1,0 +1,3 @@
+# Tokyo
+
+For being the largest city in the world, it's never seemed like Tokyo has led the way in production or innovation the way that new York city or silicon valley has. At least not in any self conscious or intentional way. Maybe that's because, as opposed to somewhere like new York, where everyone is trying to win, to be the masters of their own increasingly large sphere of existence, the residents of Tokyo aren't trying to win anything. They're just trying to live. And the sum of this attitude is an entirely different feeling to a city.
